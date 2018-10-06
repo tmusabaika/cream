@@ -17,7 +17,7 @@ title: CRE@M
 email: admin@learning.cream.com
 description: >- # this means to ignore newlines until "baseurl:"
   A website for cre@m, an innovative mordern school offering individualised learning for kindergarten to primary children 
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "cream" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: cream.learning
 github_username:  tmusabaika
